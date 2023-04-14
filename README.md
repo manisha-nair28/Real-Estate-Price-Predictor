@@ -10,6 +10,9 @@ A multi-variate linear regression model that predicts real estate prices.
 #### :label:Tech Stack Used
 Python3, NumPy, Pandas and Matplotlib libraries 
 
+## Problem Statement
+ Implement a Multi-variate Linear Regression after finding your own data 
+
 ## Dataset
 The dataset used for this project contains information on different properties such as transaction date, house age, latitude, longitude, and other features. 
 The dataset has been cleaned and preprocessed to remove any missing or incorrect data points.
