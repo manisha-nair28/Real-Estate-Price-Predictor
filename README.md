@@ -17,7 +17,7 @@ The dataset has been cleaned and preprocessed to remove any missing or incorrect
 [Link to the source of the dataset](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction)
 
 ## Code 
-To use the Real Estate Price Predictor, simply run the predict.py script. The script will then output the predicted price of the property based on the trained model.
+To use the Real Estate Price Predictor, simply run the [`Real_Estate_Price_Prediction.ipynb`](https://github.com/manisha-nair28/Real-Estate-Price-Predictor/blob/main/Real_Estate_Price_Prediction.ipynb) script. The script will then output the predicted price of the property based on the trained model.
 ## Contributing
 
 Contributions are always welcome!
